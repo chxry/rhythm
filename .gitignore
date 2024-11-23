@@ -1,0 +1,3 @@
+build-cg/
+*.g3a
+.clangd
